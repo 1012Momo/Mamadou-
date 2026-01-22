@@ -1,6 +1,5 @@
-title:"Momo expert"
-logo:image/contraste.jpg
-description:"Porfolio Data Analyste _ MEAL"
-show_downloads:true
 theme: jekyll-theme-cayman
-lang: fr
+title: Momo | Data Scientist & IA
+description: Data Science, IA appliquée à la santé, Computer Vision
+author:
+  name: Momo
